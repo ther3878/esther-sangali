@@ -57,4 +57,3 @@ AI-powered system for log analysis and diagnostics
 ## 📄 Resume
 
 - 📥 [Download PDF](./Esther_Sangali_Resume.pdf)
-- 📄 [View as Markdown](./resume.md)
