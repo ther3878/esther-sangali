@@ -51,3 +51,9 @@ AI-powered system for log analysis and diagnostics
 ## 🌍 Connect with me
 
 📧 esther.r.sangali@gmail.com  
+
+---
+
+## 📄 Resume
+
+[Download my resume]([Esther_Sangali_Resume.pdf](https://github.com/user-attachments/files/26637506/Esther_Sangali_Resume.pdf))
